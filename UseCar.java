@@ -14,7 +14,7 @@ public class UseCar {
 		car.engine=engine;
 		System.out.println(car.brand);
 		System.out.println(car.engine.brand);
-	
+	System.out.println(car.price);
 	}
 
 }
